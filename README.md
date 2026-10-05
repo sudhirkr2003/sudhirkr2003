@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:sudhirkumar7762020308@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/sudhir-kumar-b59365278">💼 LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/sudhir-kumar-dev">💼 LinkedIn</a> •
   <a href="https://sudhirkr2003.github.io/portfolio">🌐 Portfolio</a>
 </p>
 
