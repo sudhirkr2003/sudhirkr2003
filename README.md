@@ -14,7 +14,6 @@
 - 🎓 B.Tech in **Computer Science Engineering** (AI & ML) — Technocrats Institute, Bhopal | CGPA: **7.74**
 - 💼 **9 months** of backend development experience (Java, Spring Boot, Hibernate, MySQL)
 - 🔭 Currently working on: **Full Stack Java projects** with RESTful APIs & React.js
-- 🌱 Currently learning: **Haskell**, Functional Programming, System Design
 - ⚡ Fun fact: I love debugging more than writing code — root causes fascinate me!
 - 📍 Based in **Bengaluru, Karnataka** | Immediate Joiner
 
